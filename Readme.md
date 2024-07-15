@@ -1,0 +1,1 @@
+# A simple application made using React JS, Weather API and Material UI which tells us the Weather, Temperature and Humidity of the searched city.
